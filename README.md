@@ -1,5 +1,7 @@
 # Fréchet Inception Distance (FID score) in PyTorch
 
+#imgs.zip 파일을 우선적으로 압축해제해준다.
+
 |![result](imgs/result.png)|
 |:--:|
 |*Lower is better*|
