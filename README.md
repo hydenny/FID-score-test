@@ -4,6 +4,7 @@
 1. imgs.zip 파일 해제
 2. 구글 드라이브에 모든 폴더 및 파일 다운로드
 3. FID score test.ipynb 코드 실행
+
 |![FID_test_img](https://user-images.githubusercontent.com/41022183/110645326-36bb0c80-81f9-11eb-9455-85afa15af7e5.png)|
 |:--:|
 |*Lower is better*|
