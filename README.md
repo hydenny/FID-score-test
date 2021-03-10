@@ -2,8 +2,7 @@
 # Fréchet Inception Distance (FID score) in PyTorch
 
 #imgs.zip 파일을 우선적으로 압축해제해준다.
-![FID_test_img](https://user-images.githubusercontent.com/41022183/110645326-36bb0c80-81f9-11eb-9455-85afa15af7e5.png)
-|![result](imgs/result.png)|
+|![result](![FID_test_img](https://user-images.githubusercontent.com/41022183/110645326-36bb0c80-81f9-11eb-9455-85afa15af7e5.png)|
 |:--:|
 |*Lower is better*|
 
